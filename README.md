@@ -2,10 +2,9 @@
 
 - 🔭 Hoje trabalho como Aux de Implantação de sistema TMS
 - 🌱 Estou estudando Java e aprendendo Spring e SQL.
-
+ 
  <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IAmVinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IAmVinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmVinicius&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
