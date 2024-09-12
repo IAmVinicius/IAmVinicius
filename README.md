@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-- 🔭 Hoje trabalho como Analista de Implantação de sistema TMS
+- 🔭 Hoje trabalho como Analista de Integração de sistema TMS
 - 🌱 Estou cursando Eng de Software e estudando Java, Spring e SQL.
  
  <div>
